@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_device_huawei_angler" path="device/huawei/angler" remote="github" />
+  <project name="RegaliaEzz/hexa_angler_cm" path="kernel/huawei/angler" remote="github" revision="cm-13.0" />
+  <project name="TheMuppets/proprietary_vendor_huawei" path="vendor/huawei" remote="github" revision="cm-13.0" />
+</manifest>
